@@ -12,7 +12,7 @@ Sistema para gestionar préstamos de libros en una biblioteca.
 ## Arquitectura
 
 ### Diagrama de Clases
-![Diagrama de Clases](docs/diagramas/diagramas-clases.png)
+![Diagrama de Clases](docs/diagramas/diagrama-clases.png)
 
 ## API Documentation
 Ver [Especificación Swagger](docs/api/swagger.yaml)
